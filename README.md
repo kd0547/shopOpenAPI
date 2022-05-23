@@ -1,1 +1,1 @@
-# shopOpenAPI
+# API 사용법 작성중
